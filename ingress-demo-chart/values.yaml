@@ -1,0 +1,11 @@
+namespace: demo-ingress
+
+frontend:
+  image:
+    repository: rajiv84docker/frontend-demo
+    tag: v1
+
+backend:
+  image:
+    repository: rajiv684docker/backend-demo
+    tag: v1
