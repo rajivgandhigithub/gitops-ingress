@@ -7,5 +7,5 @@ frontend:
 
 backend:
   image:
-    repository: rajiv684docker/backend-demo
+    repository: rajiv84docker/backend-demo
     tag: v1
